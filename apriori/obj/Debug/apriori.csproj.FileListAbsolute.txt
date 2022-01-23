@@ -1,0 +1,12 @@
+E:\Programming\my_prj\apriori\apriori\bin\Debug\apriori.exe.config
+E:\Programming\my_prj\apriori\apriori\bin\Debug\apriori.exe
+E:\Programming\my_prj\apriori\apriori\bin\Debug\apriori.pdb
+E:\Programming\my_prj\apriori\apriori\obj\Debug\apriori.csprojAssemblyReference.cache
+E:\Programming\my_prj\apriori\apriori\obj\Debug\apriori.csproj.CoreCompileInputs.cache
+E:\Programming\my_prj\apriori\apriori\obj\Debug\apriori.exe
+E:\Programming\my_prj\apriori\apriori\obj\Debug\apriori.pdb
+E:\Programming\my_prj\apriori\apriori\bin\Debug\Dapper.dll
+E:\Programming\my_prj\apriori\apriori\bin\Debug\Dapper.xml
+E:\Programming\my_prj\apriori\apriori\obj\Debug\apriori.csproj.CopyComplete
+E:\Programming\my_prj\apriori\apriori\bin\Debug\System.Data.SqlClient.dll
+E:\Programming\my_prj\apriori\apriori\bin\Debug\System.Data.SqlClient.xml
