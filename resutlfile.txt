@@ -1,0 +1,651 @@
+Clams - Canned,Clams - Canned, | Support = 0.01809409
+Onions Granulated, | Support = 0.01728991
+Puree - Passion Fruit, | Support = 0.01849618
+Relish, | Support = 0.026538
+Sugar - Individual Portions, | Support = 0.01889827
+Tea - Apple Green Tea, | Support = 0.01970245
+Tomato - Peeled Italian Canned, | Support = 0.01447527
+Clams - Canned,Onions Granulated, | Support = 0.0008041817
+Clams - Canned,Puree - Passion Fruit, | Support = 0.0004020909
+Clams - Canned,Relish, | Support = 0.0004020909
+Clams - Canned,Sugar - Individual Portions, | Support = 0.0008041817
+Clams - Canned,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Onions Granulated,Puree - Passion Fruit, | Support = 0.0004020909
+Onions Granulated,Relish, | Support = 0.0004020909
+Onions Granulated,Sugar - Individual Portions, | Support = 0.0008041817
+Onions Granulated,Tea - Apple Green Tea, | Support = 0.0008041817
+Onions Granulated,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Puree - Passion Fruit,Relish, | Support = 0.0004020909
+Puree - Passion Fruit,Sugar - Individual Portions, | Support = 0.0008041817
+Puree - Passion Fruit,Tea - Apple Green Tea, | Support = 0.0004020909
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Relish,Sugar - Individual Portions, | Support = 0.0008041817
+Relish,Tea - Apple Green Tea, | Support = 0.0008041817
+Relish,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Sugar - Individual Portions,Tea - Apple Green Tea, | Support = 0.0008041817
+Sugar - Individual Portions,Tomato - Peeled Italian Canned, | Support = 0.001608363
+Tea - Apple Green Tea,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Relish, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, | Support = 0.0008041817
+Clams - Canned,Puree - Passion Fruit,Relish, | Support = 0.0004020909
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, | Support = 0.0004020909
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Relish,Sugar - Individual Portions, | Support = 0.0004020909
+Clams - Canned,Relish,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Relish,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned, | Support = 0.0008041817
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, | Support = 0.0004020909
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, | Support = 0.0008041817
+Clams - Canned, => Onions Granulated,confidence = 0.04444445| lift = 2.570543
+Onions Granulated, => Clams - Canned,confidence = 0.04651163| lift = 2.570543
+Clams - Canned, => Puree - Passion Fruit,confidence = 0.02222222| lift = 1.201449
+Puree - Passion Fruit, => Clams - Canned,confidence = 0.02173913| lift = 1.201449
+Clams - Canned, => Relish,confidence = 0.02222222| lift = 0.8373737
+Relish, => Clams - Canned,confidence = 0.01515151| lift = 0.8373737
+Clams - Canned, => Sugar - Individual Portions,confidence = 0.04444445| lift = 2.351773
+Sugar - Individual Portions, => Clams - Canned,confidence = 0.04255319| lift = 2.351773
+Clams - Canned, => Tea - Apple Green Tea,confidence = 0.02222222| lift = 1.127891
+Tea - Apple Green Tea, => Clams - Canned,confidence = 0.02040816| lift = 1.127891
+Clams - Canned, => Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = 1.535185
+Tomato - Peeled Italian Canned, => Clams - Canned,confidence = 0.02777778| lift = 1.535185
+Onions Granulated, => Puree - Passion Fruit,confidence = 0.02325581| lift = 1.257331
+Puree - Passion Fruit, => Onions Granulated,confidence = 0.02173913| lift = 1.257331
+Onions Granulated, => Relish,confidence = 0.02325581| lift = 0.8763214
+Relish, => Onions Granulated,confidence = 0.01515151| lift = 0.8763214
+Onions Granulated, => Sugar - Individual Portions,confidence = 0.04651163| lift = 2.461158
+Sugar - Individual Portions, => Onions Granulated,confidence = 0.04255319| lift = 2.461158
+Onions Granulated, => Tea - Apple Green Tea,confidence = 0.04651163| lift = 2.360703
+Tea - Apple Green Tea, => Onions Granulated,confidence = 0.04081633| lift = 2.360703
+Onions Granulated, => Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = 1.606589
+Tomato - Peeled Italian Canned, => Onions Granulated,confidence = 0.02777778| lift = 1.606589
+Puree - Passion Fruit, => Relish,confidence = 0.02173913| lift = 0.8191699
+Relish, => Puree - Passion Fruit,confidence = 0.01515151| lift = 0.8191699
+Puree - Passion Fruit, => Sugar - Individual Portions,confidence = 0.04347826| lift = 2.300647
+Sugar - Individual Portions, => Puree - Passion Fruit,confidence = 0.04255319| lift = 2.300647
+Puree - Passion Fruit, => Tea - Apple Green Tea,confidence = 0.02173913| lift = 1.103372
+Tea - Apple Green Tea, => Puree - Passion Fruit,confidence = 0.02040816| lift = 1.103372
+Puree - Passion Fruit, => Tomato - Peeled Italian Canned,confidence = 0.02173913| lift = 1.501812
+Tomato - Peeled Italian Canned, => Puree - Passion Fruit,confidence = 0.02777778| lift = 1.501812
+Relish, => Sugar - Individual Portions,confidence = 0.03030303| lift = 1.603482
+Sugar - Individual Portions, => Relish,confidence = 0.04255319| lift = 1.603482
+Relish, => Tea - Apple Green Tea,confidence = 0.03030303| lift = 1.538033
+Tea - Apple Green Tea, => Relish,confidence = 0.04081633| lift = 1.538033
+Relish, => Tomato - Peeled Italian Canned,confidence = 0.01515151| lift = 1.046717
+Tomato - Peeled Italian Canned, => Relish,confidence = 0.02777778| lift = 1.046717
+Sugar - Individual Portions, => Tea - Apple Green Tea,confidence = 0.04255319| lift = 2.159791
+Tea - Apple Green Tea, => Sugar - Individual Portions,confidence = 0.04081633| lift = 2.159791
+Sugar - Individual Portions, => Tomato - Peeled Italian Canned,confidence = 0.08510638| lift = 5.879433
+Tomato - Peeled Italian Canned, => Sugar - Individual Portions,confidence = 0.1111111| lift = 5.879433
+Tea - Apple Green Tea, => Tomato - Peeled Italian Canned,confidence = 0.02040816| lift = 1.409864
+Tomato - Peeled Italian Canned, => Tea - Apple Green Tea,confidence = 0.02777778| lift = 1.409864
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,confidence = 0.04444445| lift = 110.5333
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,confidence = 0.04347826| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,confidence = 2| lift = 115.6744
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,confidence = 2| lift = 110.5333
+Clams - Canned, => Onions Granulated,Relish,confidence = 0.04444445| lift = 110.5333
+Onions Granulated, => Clams - Canned,Relish,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Relish,confidence = 1| lift = 37.68182
+Relish, => Clams - Canned,Onions Granulated,confidence = 0.03030303| lift = 37.68182
+Clams - Canned,Relish, => Onions Granulated,confidence = 2| lift = 115.6744
+Onions Granulated,Relish, => Clams - Canned,confidence = 2| lift = 110.5333
+Clams - Canned, => Onions Granulated,Sugar - Individual Portions,confidence = 0.04444445| lift = 55.26667
+Onions Granulated, => Clams - Canned,Sugar - Individual Portions,confidence = 0.04651163| lift = 57.83721
+Clams - Canned,Onions Granulated, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,confidence = 0.04255319| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,confidence = 1| lift = 57.83721
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Onions Granulated,Tea - Apple Green Tea,confidence = 0.04444445| lift = 55.26667
+Onions Granulated, => Clams - Canned,Tea - Apple Green Tea,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,confidence = 0.04081633| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,confidence = 2| lift = 115.6744
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.04444445| lift = 110.5333
+Onions Granulated, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,confidence = 0.05555556| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,confidence = 2| lift = 115.6744
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,confidence = 2| lift = 110.5333
+Clams - Canned, => Puree - Passion Fruit,Relish,confidence = 0.02222222| lift = 55.26667
+Puree - Passion Fruit, => Clams - Canned,Relish,confidence = 0.02173913| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Relish,confidence = 1| lift = 37.68182
+Relish, => Clams - Canned,Puree - Passion Fruit,confidence = 0.01515151| lift = 37.68182
+Clams - Canned,Relish, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Relish, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.02222222| lift = 27.63333
+Puree - Passion Fruit, => Clams - Canned,Sugar - Individual Portions,confidence = 0.02173913| lift = 27.03261
+Clams - Canned,Puree - Passion Fruit, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,confidence = 0.0212766| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Puree - Passion Fruit,confidence = 0.5| lift = 27.03261
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,confidence = 0.5| lift = 27.63333
+Clams - Canned, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.02222222| lift = 55.26667
+Puree - Passion Fruit, => Clams - Canned,Tea - Apple Green Tea,confidence = 0.02173913| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,confidence = 0.02040816| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = 55.26667
+Puree - Passion Fruit, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.02173913| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,confidence = 0.02777778| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Relish,Sugar - Individual Portions,confidence = 0.02222222| lift = 27.63333
+Relish, => Clams - Canned,Sugar - Individual Portions,confidence = 0.01515151| lift = 18.84091
+Clams - Canned,Relish, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions, => Clams - Canned,Relish,confidence = 0.0212766| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Relish,confidence = 0.5| lift = 18.84091
+Relish,Sugar - Individual Portions, => Clams - Canned,confidence = 0.5| lift = 27.63333
+Clams - Canned, => Relish,Tea - Apple Green Tea,confidence = 0.02222222| lift = 27.63333
+Relish, => Clams - Canned,Tea - Apple Green Tea,confidence = 0.01515151| lift = 37.68182
+Clams - Canned,Relish, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea, => Clams - Canned,Relish,confidence = 0.02040816| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Relish,confidence = 1| lift = 37.68182
+Relish,Tea - Apple Green Tea, => Clams - Canned,confidence = 0.5| lift = 27.63333
+Clams - Canned, => Relish,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = 55.26667
+Relish, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.01515151| lift = 37.68182
+Clams - Canned,Relish, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Relish,confidence = 0.02777778| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Relish,confidence = 1| lift = 37.68182
+Relish,Tomato - Peeled Italian Canned, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.02222222| lift = 27.63333
+Sugar - Individual Portions, => Clams - Canned,Tea - Apple Green Tea,confidence = 0.0212766| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea, => Clams - Canned,Sugar - Individual Portions,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions,Tea - Apple Green Tea, => Clams - Canned,confidence = 0.5| lift = 27.63333
+Clams - Canned, => Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = 13.81667
+Sugar - Individual Portions, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.0212766| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Sugar - Individual Portions,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Clams - Canned,confidence = 0.25| lift = 13.81667
+Clams - Canned, => Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = 55.26667
+Tea - Apple Green Tea, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.02040816| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Tea - Apple Green Tea,confidence = 0.02777778| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Clams - Canned,confidence = 1| lift = 55.26667
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,confidence = 0.04347826| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,confidence = 2| lift = 4974
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,confidence = 1| lift = 37.68182
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 0.03030303| lift = 37.68182
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 4974
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,confidence = 2| lift = 115.6744
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 0.04347826| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Sugar - Individual Portions,confidence = 2| lift = 2487
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 0.04255319| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 2487
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,confidence = 1| lift = 1243.5
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,confidence = 2| lift = 115.6744
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 0.04347826| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Tea - Apple Green Tea,confidence = 2| lift = 2487
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Tea - Apple Green Tea,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 0.04081633| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 4974
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,confidence = 2| lift = 115.6744
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.04651163| lift = 115.6744
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.04347826| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 0.05555556| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 4974
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,confidence = 2| lift = 115.6744
+Clams - Canned, => Onions Granulated,Relish,Sugar - Individual Portions,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Relish,Sugar - Individual Portions,confidence = 0.02325581| lift = 57.83721
+Clams - Canned,Onions Granulated, => Relish,Sugar - Individual Portions,confidence = 0.5| lift = 621.75
+Relish, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 0.01515151| lift = 18.84091
+Clams - Canned,Relish, => Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Onions Granulated,Relish, => Clams - Canned,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Onions Granulated,Relish, => Sugar - Individual Portions,confidence = 0.5| lift = 26.45745
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Relish,confidence = 0.0212766| lift = 26.45745
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Relish,confidence = 0.5| lift = 1243.5
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Relish,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Relish,confidence = 0.5| lift = 18.84091
+Relish,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,confidence = 0.5| lift = 621.75
+Clams - Canned,Relish,Sugar - Individual Portions, => Onions Granulated,confidence = 1| lift = 57.83721
+Clams - Canned, => Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Relish,Tea - Apple Green Tea,confidence = 0.02325581| lift = 57.83721
+Clams - Canned,Onions Granulated, => Relish,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Relish, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 0.01515151| lift = 18.84091
+Clams - Canned,Relish, => Onions Granulated,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Onions Granulated,Relish, => Clams - Canned,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Relish, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Relish,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Relish,confidence = 1| lift = 2487
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Relish,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Relish,confidence = 0.5| lift = 18.84091
+Relish,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,confidence = 0.5| lift = 621.75
+Clams - Canned,Relish,Tea - Apple Green Tea, => Onions Granulated,confidence = 1| lift = 57.83721
+Clams - Canned, => Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Relish,Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = 57.83721
+Clams - Canned,Onions Granulated, => Relish,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Relish, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.01515151| lift = 18.84091
+Clams - Canned,Relish, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Onions Granulated,Relish, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Relish, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Relish,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Relish,confidence = 1| lift = 2487
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Relish,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Relish,confidence = 0.5| lift = 18.84091
+Relish,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Tomato - Peeled Italian Canned, => Onions Granulated,confidence = 1| lift = 57.83721
+Clams - Canned, => Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.02325581| lift = 57.83721
+Clams - Canned,Onions Granulated, => Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 0.0212766| lift = 26.45745
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Tea - Apple Green Tea,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Sugar - Individual Portions,confidence = 0.5| lift = 621.75
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Sugar - Individual Portions,confidence = 0.5| lift = 26.45745
+Sugar - Individual Portions,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,confidence = 0.5| lift = 621.75
+Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea, => Onions Granulated,confidence = 1| lift = 57.83721
+Clams - Canned, => Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = 57.83721
+Clams - Canned,Onions Granulated, => Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 310.875
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.0212766| lift = 26.45745
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Sugar - Individual Portions,confidence = 0.5| lift = 26.45745
+Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,confidence = 0.25| lift = 310.875
+Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Onions Granulated,confidence = 1| lift = 57.83721
+Clams - Canned, => Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = 57.83721
+Clams - Canned,Onions Granulated, => Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,confidence = 1| lift = 1243.5
+Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Onions Granulated,confidence = 1| lift = 57.83721
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 0.04651163| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 1| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,confidence = 0.04347826| lift = 108.1304
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Sugar - Individual Portions,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.03030303| lift = 37.68182
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,confidence = 0.04255319| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 1| lift = ∞
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Relish,confidence = 1| lift = 1243.5
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, => Relish,confidence = 1| lift = 37.68182
+Relish,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions, => Puree - Passion Fruit,confidence = 2| lift = 108.1304
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 0.04651163| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 0.04347826| lift = 108.1304
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Tea - Apple Green Tea,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.03030303| lift = 37.68182
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Tea - Apple Green Tea,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,confidence = 0.04081633| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 2| lift = ∞
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Relish,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, => Relish,confidence = 1| lift = 37.68182
+Relish,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea, => Puree - Passion Fruit,confidence = 2| lift = 108.1304
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 0.04651163| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 0.04347826| lift = 108.1304
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.03030303| lift = 37.68182
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,confidence = 0.05555556| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 2| lift = ∞
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Relish,confidence = 2| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Relish,confidence = 1| lift = 37.68182
+Relish,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 2487
+Clams - Canned,Relish,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,confidence = 2| lift = 108.1304
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.02325581| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.5| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.02173913| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.0212766| lift = 26.45745
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.5| lift = ∞
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.5| lift = 1243.5
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 1| lift = ∞
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.5| lift = 621.75
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, => Sugar - Individual Portions,confidence = 0.5| lift = 26.45745
+Sugar - Individual Portions,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 0.5| lift = 621.75
+Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.02173913| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 310.875
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.0212766| lift = 26.45745
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 621.75
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 1| lift = ∞
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 0.5| lift = 621.75
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Sugar - Individual Portions,confidence = 0.5| lift = 26.45745
+Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 0.25| lift = 310.875
+Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02173913| lift = 54.06522
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned,confidence = 1| lift = 1243.5
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 0.5| lift = 1243.5
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 1243.5
+Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,confidence = 1| lift = 54.06522
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.04651163| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.04347826| lift = ∞
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.03030303| lift = 75.36364
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = 4974
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 0.04255319| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, => Relish,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Relish,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 0.04081633| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 1| lift = ∞
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,confidence = 2| lift = 4974
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, => Relish,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Relish,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,confidence = 1| lift = 1243.5
+Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea, => Puree - Passion Fruit,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea, => Relish,confidence = 2| lift = 75.36364
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.04651163| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.04347826| lift = ∞
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.03030303| lift = 75.36364
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = 621.75
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 0.04255319| lift = 52.91489
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, => Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Relish,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 0.05555556| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 1| lift = ∞
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,confidence = 2| lift = 4974
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Relish,Sugar - Individual Portions,confidence = 1| lift = 1243.5
+Relish,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Relish,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned, => Sugar - Individual Portions,confidence = 1| lift = 52.91489
+Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,confidence = 0.5| lift = 621.75
+Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Relish,confidence = 2| lift = 75.36364
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02222222| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02325581| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.02173913| lift = ∞
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.01515151| lift = 37.68182
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 0.02040816| lift = 25.37755
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 0.5| lift = ∞
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, => Relish,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 1243.5
+Relish,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 0.5| lift = 621.75
+Clams - Canned,Relish,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea, => Puree - Passion Fruit,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea, => Tomato - Peeled Italian Canned,confidence = 0.5| lift = 34.54167
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 0.02777778| lift = 34.54167
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 0.5| lift = ∞
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,Relish,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Relish,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Relish,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Clams - Canned,Relish,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Tea - Apple Green Tea,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned, => Tea - Apple Green Tea,confidence = 0.5| lift = 25.37755
+Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,confidence = 1| lift = 1243.5
+Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,confidence = 1| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Relish,confidence = 1| lift = 37.68182
+Clams - Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.04444445| lift = ∞
+Onions Granulated, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.04651163| lift = ∞
+Clams - Canned,Onions Granulated, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.04347826| lift = ∞
+Clams - Canned,Puree - Passion Fruit, => Onions Granulated,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Puree - Passion Fruit, => Clams - Canned,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit, => Relish,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Relish, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.03030303| lift = ∞
+Clams - Canned,Relish, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Relish, => Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish, => Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit,Relish, => Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Puree - Passion Fruit,Relish, => Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish, => Sugar - Individual Portions,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 0.04255319| lift = 105.8298
+Clams - Canned,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Onions Granulated,Sugar - Individual Portions, => Clams - Canned,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions, => Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Puree - Passion Fruit,Sugar - Individual Portions, => Onions Granulated,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions, => Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Relish,Sugar - Individual Portions, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Relish,Sugar - Individual Portions, => Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions, => Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions, => Tea - Apple Green Tea,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 0.04081633| lift = 50.7551
+Clams - Canned,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Onions Granulated,Tea - Apple Green Tea, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Puree - Passion Fruit,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Puree - Passion Fruit,Tea - Apple Green Tea, => Onions Granulated,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea, => Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = ∞
+Relish,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = 2487
+Clams - Canned,Relish,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Tea - Apple Green Tea, => Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea, => Sugar - Individual Portions,Tomato - Peeled Italian Canned,confidence = 1| lift = 621.75
+Sugar - Individual Portions,Tea - Apple Green Tea, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 1| lift = 1243.5
+Clams - Canned,Sugar - Individual Portions,Tea - Apple Green Tea, => Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tea - Apple Green Tea, => Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea, => Relish,Tomato - Peeled Italian Canned,confidence = 2| lift = 4974
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea, => Tomato - Peeled Italian Canned,confidence = 1| lift = 69.08334
+Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 0.05555556| lift = 69.08334
+Clams - Canned,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Onions Granulated,Tomato - Peeled Italian Canned, => Clams - Canned,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Onions Granulated,Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tomato - Peeled Italian Canned, => Relish,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = ∞
+Relish,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = 4974
+Clams - Canned,Relish,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Relish,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tomato - Peeled Italian Canned, => Sugar - Individual Portions,Tea - Apple Green Tea,confidence = 1| lift = 1243.5
+Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 0.5| lift = 621.75
+Clams - Canned,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,Tea - Apple Green Tea,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Relish,Tea - Apple Green Tea,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,Tomato - Peeled Italian Canned, => Tea - Apple Green Tea,confidence = 1| lift = 50.7551
+Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Onions Granulated,Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Puree - Passion Fruit,Relish,Sugar - Individual Portions,confidence = 2| lift = ∞
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Relish,Sugar - Individual Portions,confidence = 2| lift = 2487
+Clams - Canned,Onions Granulated,Puree - Passion Fruit,Relish,Tea - Apple Green Tea,Tomato - Peeled Italian Canned, => Sugar - Individual Portions,confidence = 2| lift = 105.8298

@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Apriori.cs" />
     <Compile Include="AprioriData.cs" />
+    <Compile Include="KeyList.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderItem.cs" />
     <Compile Include="PermutaionsOfStringList.cs" />

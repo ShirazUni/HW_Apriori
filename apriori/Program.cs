@@ -13,14 +13,19 @@ namespace apriori
         {
             
             DatabaseObjectMapper dbMapper = new DatabaseObjectMapper();
-            //List<User> users= dbMapper.getAllUsers();
-            //List<Order> orders = dbMapper.GetOrders();
-            //List<OrderItem> orderItems = dbMapper.GetOrderItems();
-            //List<List<string>> products = dbMapper.getListOfOrderProducts();
-            //foreach (var item in products) {
-            //    Console.WriteLine(item.Count().ToString());
-            //}
+            //sample usage for data base objects
+            /*
+            List<User> users= dbMapper.getAllUsers();
+            List<Order> orders = dbMapper.GetOrders();
+            List<OrderItem> orderItems = dbMapper.GetOrderItems();
+            List<List<string>> products = dbMapper.getListOfOrderProducts();
+            foreach (var item in products) {
+                Console.WriteLine(item.Count().ToString());
+            }
+            */
 
+            //sample data to test the code before testing with real database data
+            /*
             List<string> l = new List<string> { "apple", "beer", "rice", "chicken"};
             List<string> l2 = new List<string> { "apple", "beer", "rice" };
             List<string> l3 = new List<string> { "apple", "beer" };
@@ -38,8 +43,11 @@ namespace apriori
             data.Add(l6);
             data.Add(l7);
             data.Add(l8);
-            //Apriori apriori = new Apriori(dbMapper.getListOfOrderProducts());
-            Apriori apriori = new Apriori(data);
+            Apriori apriori = new Apriori(data);*/
+            
+            //real test
+            Apriori apriori = new Apriori(dbMapper.getListOfOrderProducts());
+
             Console.ReadKey();
         }
     }

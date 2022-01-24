@@ -2,48 +2,56 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace apriori
 {
     class Apriori{
+        private string filePath = "resutlfile.txt";
+        
         private List<List<string>> data;
         private List<List<string>> firstElementItemSet;
-        private Dictionary<List<string>,int> freqset = new Dictionary<List<string>,int>();
-        private Dictionary<List<List<string>>, int> largset = new Dictionary<List<List<string>>, int>();
-        private float minSup = 0.15f;
-        private float minConf = 0.15f;
-        public Apriori(List<List<string>> data){
+        private IDictionary<KeyList<string>,int> freqset = new Dictionary<KeyList<string>,int>();
+        private IDictionary<KeyList<KeyList<string>>, int> largset = new Dictionary<KeyList<KeyList<string>>, int>();
+        private float minSup = 0.00001f;
+        private float minConf = 0.00001f;
+        public Apriori(List<List<string>> data){ 
             //first get the data 
             this.data = data;
             //initialize dictionary
             this.initializeFreqSet();
+            //this.getAllSubsetsOfData();
             this.firstElementItemSet = generateFirstElementItemSet(data);
             var currentSet = returnItemsWithMinSupport(this.firstElementItemSet, this.data, minSup);
             int k = 2;
             while (currentSet.Count>0) {
-                this.largset.Add(currentSet, k - 1);
+                this.largset.Add(this.convertTo2DKeyList(currentSet), k - 1);
                 currentSet = this.generateNthItemSet(currentSet, k);
                 currentSet = this.returnItemsWithMinSupport(currentSet, this.data, minSup);
                 k += 1;
             }
-            foreach (var item in freqset) {
-                Console.WriteLine(item.Value.ToString());
-                foreach (var i in item.Key) {
-                    Console.Write(i+",");
-                }
-                Console.WriteLine();
-            }
+            
             this.calculateSupportOfAll();
-            //this.calculateConfidenceOfAll(this.minConf);
+            this.calculateConfidenceOfAll(this.minConf);
             Console.WriteLine("Done");
             
             
         }
 
+        private void initializeFreqSet(){
+            var allSubsets = this.getAllSubsetsOfData();
+            foreach (var itemSetList in allSubsets){
+                foreach (var itemSet in itemSetList){
+                    KeyList<string> tmpKey = new KeyList<string>();
+                    foreach (var item in itemSet) tmpKey.Add(item);
+                    if (!freqset.ContainsKey(tmpKey)) freqset.Add(tmpKey,0);
+                }
+            }
+        }
 
-        private bool issubset(List<string> item,List<string> transction) {
-            List<List<string>> subsetsList = this.subSets(transction);
+        private bool issubset<T>(List<T> item,List<T> transction) {
+            List<List<T>> subsetsList = this.subSets(transction);
             foreach (var sub in subsetsList){
                 if (Enumerable.SequenceEqual(item, sub))
                     return true;
@@ -52,40 +60,27 @@ namespace apriori
         }
 
         private List<List<List<string>>> getAllSubsetsOfData(){
-            var transactionList = new List<List<List<string>>>();
+            var allsubsets = new List<List<List<string>>>();
             
             foreach (var itemList in this.data){
-                transactionList.Add(this.subSets(itemList));
+                allsubsets.Add(this.subSets(itemList));
             }
 
 
-            /*foreach (var setList in transactionList.ToArray())
-            {
-                foreach (var set in setList.ToArray())
-                {
-                    Console.WriteLine("set "+set.Count().ToString());
-                    foreach (var s in set.ToArray()) {
-                        Console.Write(s + ",");
-                    }
-                    Console.WriteLine();
-                }
-                Console.WriteLine();
-
-            }*/
-            return transactionList;
+            return allsubsets;
         }
 
 
-        private List<List<string>> subSets(List<string> source)
+        private List<List<T>> subSets<T>(List<T> source)
         {
-            List<List<string>> allSubsets = new List<List<string>>();
-            List<string> list = source;
+            List<List<T>> allSubsets = new List<List<T>>();
+            List<T> list = source;
             int length = list.Count;
             int max = (int)Math.Pow(2, list.Count);
 
             for (int count = 0; count < max; count++)
             {
-                List<string> subset = new List<string>();
+                List<T> subset = new List<T>();
                 uint rs = 0;
                 while (rs < length)
                 {
@@ -95,8 +90,11 @@ namespace apriori
                     }
                     rs++;
                 }
-                if(subset.Count>0)
+                
+                        
+                if (subset.Count() > 0)
                     allSubsets.Add(subset);
+                
             }
             return allSubsets;
         }
@@ -105,19 +103,20 @@ namespace apriori
         private List<List<string>> returnItemsWithMinSupport(List<List<string>> itemSet,List<List<string>> trans,float minSupport)
         {
             var _itemset = new List<List<string>>();
-            var localset = new Dictionary<List<string>,int>();
+            var localset = new Dictionary<KeyList<string>,int>();
 
-            foreach (var itemset in itemSet) {
-                var allCombinations = PermutaionsOfStringList.permute(itemset);
-                localset.Add(itemset, 0);
+            foreach (var itemset in this.convertTo2DKeyList(itemSet)) {
+                
+                if(!localset.ContainsKey(itemset))
+                    localset.Add(itemset, 0);
+                
+                if (!freqset.ContainsKey(itemset))
+                    freqset.Add(itemset,0);
+
                 foreach (var t in trans){
-                    if (this.issubset(itemset,t)) {
+                    if (this.issubset(itemset.ToList(),t)) {
                         localset[itemset] += 1;
-                        foreach (var elem in freqset.Keys.ToList()) {
-                            if (elem.SequenceEqual(itemset)){
-                                    freqset[elem] += 1;
-                            }
-                        }
+                        freqset[itemset] += 1;
                     }
                 }
 
@@ -125,31 +124,27 @@ namespace apriori
             foreach (var item in localset) {
                 float support = (float)item.Value / (float)trans.Count;
                 if (support >= minSupport) {
-                    _itemset.Add(item.Key);
+                    _itemset.Add(item.Key.ToList());
                 }
             }
 
             return _itemset;
         }
 
-        private float getSupport(List<string> item){
-            var val = 0f;
-            foreach (var elem in freqset.Keys.ToList())
-                if (elem.SequenceEqual(item))
-                    val =(float)this.freqset[elem];
-            return val/(float)this.data.Count;
-            //var val = (float)this.freqset[item];
-            //return val / (float)this.data.Count();
+        private float getSupport(KeyList<string> item){
+            return (float)this.freqset[item] / (float)this.data.Count();
         }
 
         private void calculateSupportOfAll(){
-            foreach (KeyValuePair<List<List<string>>,int> elem in this.largset) {
+            foreach (var elem in this.largset) {
                 foreach (var itemset in elem.Key){
                     foreach (var item in itemset){
                         Console.Write(item+",");
+                        this.printResultToFile(item+",");
                     }
                     
                     Console.Write(" | Support = "+getSupport(itemset).ToString());
+                    this.printResultToFile(" | Support = " + getSupport(itemset).ToString()+"\n");
                     Console.WriteLine();
                 }
             }
@@ -158,30 +153,35 @@ namespace apriori
         private void calculateConfidenceOfAll(float minCONF){
             foreach (var elem in this.largset){
                 foreach (var itemset in elem.Key){
-                    var subSet = this.subSets(itemset);
+                    var subSet = this.convertTo2DKeyList(this.subSets(itemset.ToList()));
                     foreach (var set in subSet){
-                        Console.WriteLine(set);
-                        var remainSet = itemset.Except(set);
-                        if (remainSet.Count()>0){
-                            var confidence = (float)this.getSupport(itemset)/(float)this.getSupport(set.ToList());
-                            if (confidence >= minCONF){
+
+                        var remainSet = new KeyList<string>();
+                        foreach (var item in itemset.Except(set))remainSet.Add(item);
+
+                        if (remainSet.Count() > 0){
+
+                            var confidence = (float)getSupport(itemset) / (float)getSupport(set);
+                            var lift = (float)getSupport(itemset) / ((float)getSupport(set) * (float)getSupport(remainSet));
+
+                            if (confidence >= minCONF && !float.IsInfinity(confidence)){
                                 foreach (var s in set){
+                                    this.printResultToFile(s + ",");     
                                     Console.Write(s + ",");
                                 }
+                                this.printResultToFile(" => ");
                                 Console.Write(" => ");
                                 foreach (var s in remainSet){
-                                    Console.Write(s+",");
+                                    this.printResultToFile(s + ",");
+                                    Console.Write(s + ",");
                                 }
-                                Console.Write("confidence = "+confidence.ToString()+"\n");
+                                this.printResultToFile("confidence = " + confidence.ToString() +"| lift = "+lift.ToString() +"\n");
+                                Console.Write("confidence = " + confidence.ToString() + "| lift = " + lift.ToString() + "\n");
                             }
                         }
                     }
                 }
             }
-        }
-
-        private void calculateLiftOfAll(){
-
         }
 
         private List<List<string>> generateNthItemSet(List<List<string>> source,int length){
@@ -217,15 +217,41 @@ namespace apriori
             }
             return firstItemSet;
         }
-        private void initializeFreqSet(){
-            var allSubsets = this.getAllSubsetsOfData();
-            foreach (var itemSetList in allSubsets)
-                foreach (var itemSet in itemSetList){
-                    var combItemSet = PermutaionsOfStringList.permute(itemSet);
-                    foreach (var comb in combItemSet)
-                        if (!freqset.ContainsKey(comb))
-                            freqset.Add(comb,0);
-                }      
+
+        private KeyList<KeyList<string>> convertTo2DKeyList(List<List<string>> list) {
+            KeyList<KeyList<string>> retList = new KeyList<KeyList<string>>();
+            foreach (var ls in list){
+                KeyList<string> tmpls = new KeyList<string>();
+                foreach (var l in ls)
+                    tmpls.Add(l);
+                retList.Add(tmpls);
+            }
+            return retList;   
+        }
+
+        private KeyList<string> convertToKeyList(List<string> list){
+            KeyList<string> retList = new KeyList<string>();
+            foreach (var item in list)
+                retList.Add(item);
+            return retList;
+        }
+
+        private bool printResultToFile(string res){
+            try{
+                if (!File.Exists(filePath)){
+                    using (StreamWriter sr = File.CreateText(filePath)){
+                        sr.Write(res);
+                    }
+                }
+                using (StreamWriter sr = File.AppendText(filePath)){
+                    sr.Write(res);
+                }
+                return true;
+            }
+            catch (Exception error){
+                return false;
+                throw error;
+            }
         }
     }
 }
